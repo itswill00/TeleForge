@@ -1,0 +1,31 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Telegram session files (CRITICAL: Do not commit credentials)
+*.session
+*.session-journal
+.env
+config.env
+
+# Local database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Runtime artifacts & logs
+logs/
+downloads/
+temp/
+*.log
+*.pid
+
+# Environments
+venv/
+.venv/
+env/

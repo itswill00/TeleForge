@@ -1,0 +1,2363 @@
+{
+  "f1": [
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 1,
+      "name": "Australian Grand Prix",
+      "circuit": "Albert Park Grand Prix Circuit",
+      "location": "Melbourne, Australia",
+      "date": "2026-03-08T04:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-06T01:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-06T05:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-03-07T01:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-07T05:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-08T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 2,
+      "name": "Chinese Grand Prix",
+      "circuit": "Shanghai International Circuit",
+      "location": "Shanghai, China",
+      "date": "2026-03-15T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-13T03:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-03-13T07:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-03-14T03:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-14T07:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-15T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 3,
+      "name": "Japanese Grand Prix",
+      "circuit": "Suzuka Circuit",
+      "location": "Suzuka, Japan",
+      "date": "2026-03-29T05:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-27T02:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-27T06:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-03-28T02:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-03-28T06:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-29T05:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 4,
+      "name": "Miami Grand Prix",
+      "circuit": "Miami International Autodrome",
+      "location": "Miami, USA",
+      "date": "2026-05-03T20:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-01T16:00:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-05-01T20:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-05-02T16:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-02T20:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-05-03T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 5,
+      "name": "Canadian Grand Prix",
+      "circuit": "Circuit Gilles Villeneuve",
+      "location": "Montreal, Canada",
+      "date": "2026-05-24T20:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-22T16:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-05-22T20:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-05-23T16:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-05-23T20:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-05-24T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 6,
+      "name": "Monaco Grand Prix",
+      "circuit": "Circuit de Monaco",
+      "location": "Monte Carlo, Monaco",
+      "date": "2026-06-07T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-05T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-05T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-06T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-06T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-07T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 7,
+      "name": "Barcelona Grand Prix",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "location": "Barcelona, Spain",
+      "date": "2026-06-14T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-12T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-12T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-13T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-13T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-14T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 8,
+      "name": "Austrian Grand Prix",
+      "circuit": "Red Bull Ring",
+      "location": "Spielberg, Austria",
+      "date": "2026-06-28T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-26T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-26T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-06-27T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-06-27T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-28T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 9,
+      "name": "British Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "location": "Silverstone, UK",
+      "date": "2026-07-05T14:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-03T11:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-07-03T15:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-07-04T11:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-04T15:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-07-05T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 10,
+      "name": "Belgian Grand Prix",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "location": "Spa, Belgium",
+      "date": "2026-07-19T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-17T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-17T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-07-18T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-18T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-07-19T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 11,
+      "name": "Hungarian Grand Prix",
+      "circuit": "Hungaroring",
+      "location": "Budapest, Hungary",
+      "date": "2026-07-26T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-24T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-24T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-07-25T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-07-25T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-07-26T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 12,
+      "name": "Dutch Grand Prix",
+      "circuit": "Circuit Park Zandvoort",
+      "location": "Zandvoort, Netherlands",
+      "date": "2026-08-23T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-21T10:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-08-21T14:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-08-22T10:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-08-22T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-08-23T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 13,
+      "name": "Italian Grand Prix",
+      "circuit": "Autodromo Nazionale di Monza",
+      "location": "Monza, Italy",
+      "date": "2026-09-06T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-04T10:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-04T14:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-05T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-05T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-09-06T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 14,
+      "name": "Spanish Grand Prix",
+      "circuit": "Madring",
+      "location": "Madrid, Spain",
+      "date": "2026-09-13T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-11T11:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-11T15:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-12T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-12T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-09-13T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 15,
+      "name": "Azerbaijan Grand Prix",
+      "circuit": "Baku City Circuit",
+      "location": "Baku, Azerbaijan",
+      "date": "2026-09-26T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-24T08:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-24T12:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-09-25T08:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-09-25T12:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-09-26T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 16,
+      "name": "Bahrain Grand Prix in Malaysia",
+      "circuit": "Sepang International Circuit",
+      "location": "Kuala Lumpur, Malaysia",
+      "date": "2026-10-04T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-02T04:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-02T08:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-10-03T04:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-03T08:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-04T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 17,
+      "name": "Singapore Grand Prix",
+      "circuit": "Marina Bay Street Circuit",
+      "location": "Marina Bay, Singapore",
+      "date": "2026-10-11T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-09T08:30:00Z"
+        },
+        {
+          "name": "Sprint Qualifying",
+          "time": "2026-10-09T12:30:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-10-10T09:00:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-10T13:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-11T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 18,
+      "name": "United States Grand Prix",
+      "circuit": "Circuit of the Americas",
+      "location": "Austin, USA",
+      "date": "2026-10-25T20:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-23T17:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-23T21:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-10-24T17:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-24T21:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-25T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 19,
+      "name": "Mexico City Grand Prix",
+      "circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+      "location": "Mexico City, Mexico",
+      "date": "2026-11-01T20:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-30T18:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-30T22:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-10-31T17:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-10-31T21:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-01T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 20,
+      "name": "Brazilian Grand Prix",
+      "circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+      "location": "S\u00e3o Paulo, Brazil",
+      "date": "2026-11-08T17:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-06T15:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-06T19:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-11-07T14:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-07T18:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-08T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 21,
+      "name": "Las Vegas Grand Prix",
+      "circuit": "Las Vegas Strip Street Circuit",
+      "location": "Las Vegas, USA",
+      "date": "2026-11-22T04:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-20T00:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-20T04:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-11-21T00:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-21T04:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-22T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 22,
+      "name": "Qatar Grand Prix",
+      "circuit": "Lusail International Circuit",
+      "location": "Lusail, Qatar",
+      "date": "2026-11-29T16:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-27T13:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-27T17:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-11-28T14:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-11-28T18:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-29T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "f1",
+      "series_name": "Formula 1",
+      "round": 23,
+      "name": "Abu Dhabi Grand Prix",
+      "circuit": "Yas Marina Circuit",
+      "location": "Abu Dhabi, UAE",
+      "date": "2026-12-06T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-12-04T09:30:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-12-04T13:00:00Z"
+        },
+        {
+          "name": "Practice 3",
+          "time": "2026-12-05T10:30:00Z"
+        },
+        {
+          "name": "Qualifying",
+          "time": "2026-12-05T14:00:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-12-06T13:00:00Z"
+        }
+      ]
+    }
+  ],
+  "motogp": [
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 1,
+      "name": "Thailand Grand Prix",
+      "circuit": "Chang International Circuit",
+      "location": "Buriram, Thailand",
+      "date": "2026-03-01T08:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-02-27T03:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-02-27T08:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-02-28T03:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-02-28T03:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-02-28T04:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-02-28T08:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-03-01T03:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-01T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 2,
+      "name": "Brasil Grand Prix",
+      "circuit": "Aut\u00f3dromo Internacional Ayrton Senna",
+      "location": "Goi\u00e2nia, Brazil",
+      "date": "2026-03-22T18:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-20T15:05:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-03-20T19:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-21T13:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-03-21T13:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-03-21T14:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-03-21T19:20:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-03-22T13:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-22T18:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 3,
+      "name": "Americas Grand Prix",
+      "circuit": "Circuit of the Americas",
+      "location": "Austin, Texas, USA",
+      "date": "2026-03-29T20:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-03-27T15:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-03-27T20:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-03-28T15:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-03-28T15:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-03-28T16:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-03-28T20:10:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-03-29T15:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-03-29T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 4,
+      "name": "Espa\u00f1a Grand Prix",
+      "circuit": "Circuito de Jerez - \u00c1ngel Nieto",
+      "location": "Jerez, Spain",
+      "date": "2026-04-26T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-04-24T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-04-24T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-04-25T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-04-25T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-04-25T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-04-25T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-04-26T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-04-26T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 5,
+      "name": "France Grand Prix",
+      "circuit": "Bugatti Circuit",
+      "location": "Le Mans, France",
+      "date": "2026-05-10T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-08T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-08T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-09T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-09T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-09T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-05-09T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-10T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-05-10T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 6,
+      "name": "Catalunya Grand Prix",
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "location": "Barcelona, Spain",
+      "date": "2026-05-17T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-15T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-15T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-16T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-16T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-16T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-05-16T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-17T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-05-17T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 7,
+      "name": "Italy Grand Prix",
+      "circuit": "Autodromo Internazionale del Mugello",
+      "location": "Scarperia, Italy",
+      "date": "2026-05-31T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-05-29T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-05-29T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-05-30T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-05-30T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-05-30T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-05-30T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-05-31T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-05-31T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 8,
+      "name": "Hungria Grand Prix",
+      "circuit": "Balaton Park Circuit",
+      "location": "Balatonf\u0151kaj\u00e1r, Hungary",
+      "date": "2026-06-07T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-05T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-05T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-06T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-06T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-06T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-06-06T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-07T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-07T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 9,
+      "name": "Czeck Republiky Grand Prix",
+      "circuit": "Automotodrom Brno",
+      "location": "Brno, Czech Republic",
+      "date": "2026-06-21T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-19T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-19T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-20T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-20T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-20T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-06-20T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-21T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-21T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 10,
+      "name": "Netherlands Grand Prix",
+      "circuit": "TT Circuit Assen",
+      "location": "Assen, Netherlands",
+      "date": "2026-06-28T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-06-26T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-06-26T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-06-27T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-06-27T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-06-27T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-06-27T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-06-28T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-06-28T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 11,
+      "name": "Germany Grand Prix",
+      "circuit": "Sachsenring",
+      "location": "Hohenstein-Ernstthal, Germany",
+      "date": "2026-07-12T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-07-10T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-07-10T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-07-11T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-07-11T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-07-11T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-07-11T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-07-12T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-07-12T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 12,
+      "name": "Great Britain Grand Prix",
+      "circuit": "Silverstone Circuit",
+      "location": "Silverstone, United Kingdom",
+      "date": "2026-08-09T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-07T10:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-07T15:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-08T10:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-08T10:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-08T11:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-08-08T15:05:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-08-09T08:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-08-09T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 13,
+      "name": "Spain Grand Prix",
+      "circuit": "MotorLand Arag\u00f3n",
+      "location": "Alca\u00f1iz, Spain",
+      "date": "2026-08-30T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-08-28T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-08-28T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-08-29T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-08-29T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-08-29T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-08-29T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-08-30T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-08-30T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 14,
+      "name": "San Marino Grand Prix",
+      "circuit": "Misano World Circuit Marco Simoncelli",
+      "location": "Misano Adriatico, Italy",
+      "date": "2026-09-13T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-11T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-11T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-12T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-12T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-12T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-09-12T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-09-13T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-09-13T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 15,
+      "name": "Austria Grand Prix",
+      "circuit": "Red Bull Ring - Spielberg",
+      "location": "Spielberg, Austria",
+      "date": "2026-09-20T12:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-09-18T08:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-09-18T13:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-09-19T08:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-09-19T08:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-09-19T09:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-09-19T13:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-09-20T07:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-09-20T12:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 16,
+      "name": "Japan Grand Prix",
+      "circuit": "Mobility Resort Motegi",
+      "location": "Motegi, Japan",
+      "date": "2026-10-04T05:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-02T01:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-02T06:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-03T01:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-03T01:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-03T02:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-10-03T06:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-10-04T00:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-04T05:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 17,
+      "name": "Indonesia Grand Prix",
+      "circuit": "Pertamina Mandalika International Circuit",
+      "location": "Lombok, Indonesia",
+      "date": "2026-10-11T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-09T02:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-09T07:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-10T02:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-10T02:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-10T03:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-10-10T07:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-10-11T02:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-11T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 18,
+      "name": "Australia Grand Prix",
+      "circuit": "Phillip Island Grand Prix Circuit",
+      "location": "Ventnor, Australia",
+      "date": "2026-10-25T03:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-22T23:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-23T04:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-23T23:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-23T23:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-24T00:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-10-24T04:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-10-24T22:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-10-25T03:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 19,
+      "name": "Malaysia Grand Prix",
+      "circuit": "Sepang International Circuit",
+      "location": "Sepang, Malaysia",
+      "date": "2026-11-01T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-10-30T02:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-10-30T07:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-10-31T02:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-10-31T02:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-10-31T03:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-10-31T07:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-01T02:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-01T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 20,
+      "name": "Qatar Grand Prix",
+      "circuit": "Lusail International Circuit",
+      "location": "Lusail, Qatar",
+      "date": "2026-11-08T17:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-06T12:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-06T17:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-07T12:00:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-11-07T12:40:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-11-07T13:05:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-11-07T17:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-08T12:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-08T17:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 21,
+      "name": "Portugal Grand Prix",
+      "circuit": "Aut\u00f3dromo Internacional do Algarve",
+      "location": "Portim\u00e3o, Portugal",
+      "date": "2026-11-22T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-20T10:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-20T15:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-21T10:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-11-21T10:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-11-21T11:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-11-21T15:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-22T09:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-22T13:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "motogp",
+      "series_name": "MotoGP",
+      "round": 22,
+      "name": "Valencia Grand Prix",
+      "circuit": "Circuit Ricardo Tormo",
+      "location": "Valencia, Spain",
+      "date": "2026-11-29T13:00:00Z",
+      "sessions": [
+        {
+          "name": "Practice 1",
+          "time": "2026-11-27T09:45:00Z"
+        },
+        {
+          "name": "Practice",
+          "time": "2026-11-27T14:00:00Z"
+        },
+        {
+          "name": "Practice 2",
+          "time": "2026-11-28T09:10:00Z"
+        },
+        {
+          "name": "Qualifying 1",
+          "time": "2026-11-28T09:50:00Z"
+        },
+        {
+          "name": "Qualifying 2",
+          "time": "2026-11-28T10:15:00Z"
+        },
+        {
+          "name": "Sprint",
+          "time": "2026-11-28T14:00:00Z"
+        },
+        {
+          "name": "Warmup",
+          "time": "2026-11-29T08:40:00Z"
+        },
+        {
+          "name": "Grand Prix",
+          "time": "2026-11-29T13:00:00Z"
+        }
+      ]
+    }
+  ],
+  "wec": [
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 1,
+      "name": "6 Hours of Imola",
+      "circuit": "Imola Circuit",
+      "location": "Imola, Italy",
+      "date": "2026-04-19T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (6 Hours)",
+          "time": "2026-04-19T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 2,
+      "name": "6 Hours of Spa-Francorchamps",
+      "circuit": "Circuit de Spa-Francorchamps",
+      "location": "Stavelot, Belgium",
+      "date": "2026-05-09T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (6 Hours)",
+          "time": "2026-05-09T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 3,
+      "name": "24 Hours of Le Mans",
+      "circuit": "Circuit de la Sarthe",
+      "location": "Le Mans, France",
+      "date": "2026-06-13T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (24 Hours)",
+          "time": "2026-06-13T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 4,
+      "name": "6 Hours of S\u00e3o Paulo",
+      "circuit": "Interlagos Circuit",
+      "location": "S\u00e3o Paulo, Brazil",
+      "date": "2026-07-12T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (6 Hours)",
+          "time": "2026-07-12T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 5,
+      "name": "Lone Star Le Mans",
+      "circuit": "Circuit of The Americas",
+      "location": "Austin, Texas, USA",
+      "date": "2026-09-06T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (6 Hours)",
+          "time": "2026-09-06T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 6,
+      "name": "6 Hours of Fuji",
+      "circuit": "Fuji Speedway",
+      "location": "Oyama, Shizuoka, Japan",
+      "date": "2026-09-27T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (6 Hours)",
+          "time": "2026-09-27T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 7,
+      "name": "Qatar 1812 km",
+      "circuit": "Lusail International Circuit",
+      "location": "Lusail, Qatar",
+      "date": "2026-10-24T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (12 Hours)",
+          "time": "2026-10-24T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "series": "wec",
+      "series_name": "WEC (World Endurance)",
+      "round": 8,
+      "name": "8 Hours of Bahrain",
+      "circuit": "Bahrain International Circuit",
+      "location": "Sakhir, Bahrain",
+      "date": "2026-11-07T11:00:00Z",
+      "sessions": [
+        {
+          "name": "Race (8 Hours)",
+          "time": "2026-11-07T11:00:00Z"
+        }
+      ]
+    }
+  ],
+  "wrc": [
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 1,
+      "name": "Rallye Automobile Monte Carlo",
+      "circuit": "Monte Carlo / Gap region",
+      "location": "Gap, France",
+      "date": "2026-01-25T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-01-22T07:00:00Z",
+          "date": "2026-01-22"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-01-22T07:00:00Z",
+          "date": "2026-01-22"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-01-23T07:00:00Z",
+          "date": "2026-01-23"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-01-24T07:00:00Z",
+          "date": "2026-01-24"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-01-25T07:00:00Z",
+          "date": "2026-01-25"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-01-25T07:00:00Z",
+          "date": "2026-01-25"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 2,
+      "name": "Rally Sweden",
+      "circuit": "Ume\u00e5 region",
+      "location": "Ume\u00e5, Sweden",
+      "date": "2026-02-15T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-02-12T07:00:00Z",
+          "date": "2026-02-12"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-02-12T07:00:00Z",
+          "date": "2026-02-12"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-02-13T07:00:00Z",
+          "date": "2026-02-13"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-02-14T07:00:00Z",
+          "date": "2026-02-14"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-02-15T07:00:00Z",
+          "date": "2026-02-15"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-02-15T07:00:00Z",
+          "date": "2026-02-15"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 3,
+      "name": "Safari Rally Kenya",
+      "circuit": "Nairobi region",
+      "location": "Nairobi, Kenya",
+      "date": "2026-03-15T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-03-12T07:00:00Z",
+          "date": "2026-03-12"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-03-12T07:00:00Z",
+          "date": "2026-03-12"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-03-13T07:00:00Z",
+          "date": "2026-03-13"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-03-14T07:00:00Z",
+          "date": "2026-03-14"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-03-15T07:00:00Z",
+          "date": "2026-03-15"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-03-15T07:00:00Z",
+          "date": "2026-03-15"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 4,
+      "name": "Croatia Rally",
+      "circuit": "Rijeka region",
+      "location": "Rijeka, Croatia",
+      "date": "2026-04-12T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-04-09T07:00:00Z",
+          "date": "2026-04-09"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-04-09T07:00:00Z",
+          "date": "2026-04-09"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-04-10T07:00:00Z",
+          "date": "2026-04-10"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-04-11T07:00:00Z",
+          "date": "2026-04-11"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-04-12T07:00:00Z",
+          "date": "2026-04-12"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-04-12T07:00:00Z",
+          "date": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 5,
+      "name": "Rally Islas Canarias",
+      "circuit": "Gran Canaria",
+      "location": "Las Palmas, Spain",
+      "date": "2026-04-26T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-04-23T07:00:00Z",
+          "date": "2026-04-23"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-04-23T07:00:00Z",
+          "date": "2026-04-23"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-04-24T07:00:00Z",
+          "date": "2026-04-24"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-04-25T07:00:00Z",
+          "date": "2026-04-25"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-04-26T07:00:00Z",
+          "date": "2026-04-26"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-04-26T07:00:00Z",
+          "date": "2026-04-26"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 6,
+      "name": "Rally de Portugal",
+      "circuit": "Matosinhos / Porto",
+      "location": "Matosinhos, Portugal",
+      "date": "2026-05-10T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-05-07T07:00:00Z",
+          "date": "2026-05-07"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-05-07T07:00:00Z",
+          "date": "2026-05-07"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-05-08T07:00:00Z",
+          "date": "2026-05-08"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-05-09T07:00:00Z",
+          "date": "2026-05-09"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-05-10T07:00:00Z",
+          "date": "2026-05-10"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-05-10T07:00:00Z",
+          "date": "2026-05-10"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 7,
+      "name": "Rally Japan",
+      "circuit": "Toyota City region",
+      "location": "Toyota, Aichi, Japan",
+      "date": "2026-05-31T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-05-28T07:00:00Z",
+          "date": "2026-05-28"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-05-28T07:00:00Z",
+          "date": "2026-05-28"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-05-29T07:00:00Z",
+          "date": "2026-05-29"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-05-30T07:00:00Z",
+          "date": "2026-05-30"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-05-31T07:00:00Z",
+          "date": "2026-05-31"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-05-31T07:00:00Z",
+          "date": "2026-05-31"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 8,
+      "name": "Acropolis Rally Greece",
+      "circuit": "Loutraki base",
+      "location": "Loutraki, Greece",
+      "date": "2026-06-28T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-06-25T07:00:00Z",
+          "date": "2026-06-25"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-06-25T07:00:00Z",
+          "date": "2026-06-25"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-06-26T07:00:00Z",
+          "date": "2026-06-26"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-06-27T07:00:00Z",
+          "date": "2026-06-27"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-06-28T07:00:00Z",
+          "date": "2026-06-28"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-06-28T07:00:00Z",
+          "date": "2026-06-28"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 9,
+      "name": "Rally Estonia",
+      "circuit": "Tartu region",
+      "location": "Tartu, Estonia",
+      "date": "2026-07-19T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-07-16T07:00:00Z",
+          "date": "2026-07-16"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-07-16T07:00:00Z",
+          "date": "2026-07-16"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-07-17T07:00:00Z",
+          "date": "2026-07-17"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-07-18T07:00:00Z",
+          "date": "2026-07-18"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-07-19T07:00:00Z",
+          "date": "2026-07-19"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-07-19T07:00:00Z",
+          "date": "2026-07-19"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 10,
+      "name": "Rally Finland",
+      "circuit": "Jyv\u00e4skyl\u00e4 region",
+      "location": "Jyv\u00e4skyl\u00e4, Finland",
+      "date": "2026-08-02T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-07-30T07:00:00Z",
+          "date": "2026-07-30"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-07-30T07:00:00Z",
+          "date": "2026-07-30"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-07-31T07:00:00Z",
+          "date": "2026-07-31"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-08-01T07:00:00Z",
+          "date": "2026-08-01"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-08-02T07:00:00Z",
+          "date": "2026-08-02"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-08-02T07:00:00Z",
+          "date": "2026-08-02"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 11,
+      "name": "Rally del Paraguay",
+      "circuit": "Encarnaci\u00f3n region",
+      "location": "Encarnaci\u00f3n, Paraguay",
+      "date": "2026-08-30T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-08-27T07:00:00Z",
+          "date": "2026-08-27"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-08-27T07:00:00Z",
+          "date": "2026-08-27"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-08-28T07:00:00Z",
+          "date": "2026-08-28"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-08-29T07:00:00Z",
+          "date": "2026-08-29"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-08-30T07:00:00Z",
+          "date": "2026-08-30"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-08-30T07:00:00Z",
+          "date": "2026-08-30"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 12,
+      "name": "Rally Chile",
+      "circuit": "Concepci\u00f3n region",
+      "location": "Concepci\u00f3n, Chile",
+      "date": "2026-09-13T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-09-10T07:00:00Z",
+          "date": "2026-09-10"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-09-10T07:00:00Z",
+          "date": "2026-09-10"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-09-11T07:00:00Z",
+          "date": "2026-09-11"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-09-12T07:00:00Z",
+          "date": "2026-09-12"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-09-13T07:00:00Z",
+          "date": "2026-09-13"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-09-13T07:00:00Z",
+          "date": "2026-09-13"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 13,
+      "name": "Rally Italia Sardegna",
+      "circuit": "Alghero base",
+      "location": "Alghero, Italy",
+      "date": "2026-10-04T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-10-01T07:00:00Z",
+          "date": "2026-10-01"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-10-01T07:00:00Z",
+          "date": "2026-10-01"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-10-02T07:00:00Z",
+          "date": "2026-10-02"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-10-03T07:00:00Z",
+          "date": "2026-10-03"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-10-04T07:00:00Z",
+          "date": "2026-10-04"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-10-04T07:00:00Z",
+          "date": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "series": "wrc",
+      "series_name": "WRC (World Rally)",
+      "round": 14,
+      "name": "Rally Saudi Arabia",
+      "circuit": "Jeddah region",
+      "location": "Jeddah, Saudi Arabia",
+      "date": "2026-11-14T07:00:00Z",
+      "sessions": [
+        {
+          "name": "Shakedown",
+          "time": "2026-11-11T07:00:00Z",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "Day 1",
+          "time": "2026-11-11T07:00:00Z",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "Day 2",
+          "time": "2026-11-12T07:00:00Z",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Day 3",
+          "time": "2026-11-13T07:00:00Z",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Day 4",
+          "time": "2026-11-14T07:00:00Z",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Podium",
+          "time": "2026-11-14T07:00:00Z",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ]
+}
