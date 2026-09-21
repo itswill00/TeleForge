@@ -2,15 +2,7 @@
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.10%20%7C%203.14-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Version"></a>
-  <a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/Pyrogram-v2.0.106-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Pyrogram"></a>
-  <img src="https://img.shields.io/badge/Protocol-MTProto%20v2.0-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram MTProto">
-  <img src="https://img.shields.io/badge/Architecture-Dual--Client%20(User%20%2B%20Bot)-8A2BE2?style=flat-square" alt="Dual-Client Architecture">
-  <br>
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-000000?style=flat-square&logo=android&logoColor=3DDC84" alt="Platform">
-  <img src="https://img.shields.io/badge/Runner-tmux%20%7C%20Daemon%20%7C%20Boot-1BB954?style=flat-square&logo=tmux&logoColor=white" alt="Runner">
-  <img src="https://img.shields.io/badge/Storage-SQLite%20(WAL)-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="Database">
-  <img src="https://img.shields.io/badge/System-Battery%20%26%20Thermal-FF5722?style=flat-square" alt="System Health">
-  <img src="https://img.shields.io/badge/AsyncIO-Non--Blocking-00599C?style=flat-square" alt="AsyncIO">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"></a>
 </p>
 
